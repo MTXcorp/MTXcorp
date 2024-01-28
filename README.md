@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MTXcorp
 - 👀 I’m interested in Integrated Apps, Animation, Rendering, Modeling, Games, GUI, 2001 Microsoft, BFDI, Jacknjellify.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on PTG Draw 3d
+- 💞️ I’m looking to collaborate on #Window
 - 📫 How to reach me ...
 
 <!---
